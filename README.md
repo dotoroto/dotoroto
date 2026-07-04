@@ -2,9 +2,9 @@
 
 <p align="left">
   <a href="https://github.com/dotoroto/dotoroto"><img src="https://komarev.com/ghpvc/?username=dotoroto&color=ffb8d1&labelColor=ffb8d1" alt="page views" /></a>
-  <a href="https://dorothyzheng.ca"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdorothyzheng.ca&label=website&color=ffb8d1&labelColor=ffb8d1"></a>
+  <a href="https://dorothyzheng.ca"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdorothyzheng.ca&label=website&color=ffb8d1&labelColor=ffffff"></a>
   <a href="https://www.linkedin.com/in/dorothy-zheng07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-ffb8d1?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/dotoroto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/dotoroto?style=flat&logo=github&color=ffb8d1&labelColor=ffb8d1"></a>
+  <a href="https://github.com/dotoroto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/dotoroto?style=flat&logo=github&color=ffb8d1&labelColor=ffffff"></a>
 </p>
 
 <a href="#dotoroto-title">
@@ -24,16 +24,6 @@
 - 📝 &nbsp;or maybe my [resume]
 
 <br>
-
-<h2 align="left">my github stats</h2>
-
-<p align="left">
-  <picture>
-    <source srcset="./profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)" />
-    <source srcset="./profile/top-langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="./profile/top-langs-light.svg" alt="my languages" />
-  </picture>
-</p>
 
 <h2 align="left">currently playing</h2>
 
