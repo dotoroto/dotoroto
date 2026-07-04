@@ -19,20 +19,36 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate stats card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffb8d1&text_color=ffb8d1&icon_color=ffb8d1&rank_icon=github
-          path: profile/stats.svg
+          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=ffb8d1&icon_color=ffb8d1&ring_color=ffb8d1&rank_icon=github&custom_title=dotoroto%27s%20GitHub%20Stats
+          path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffb8d1&icon_color=ffb8d1&ring_color=ffb8d1&rank_icon=github&custom_title=dotoroto%27s%20GitHub%20Stats
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=dotoroto&layout=compact&hide_border=true&bg_color=00000000&title_color=ffb8d1&text_color=ffb8d1
-          path: profile/top-langs.svg
+          options: username=dotoroto&layout=compact&hide_border=true&bg_color=35,fff6b8,ffe8c7,ffd6ea&title_color=111111&text_color=ff8fbc&custom_title=Most%20Used%20Languages
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=dotoroto&layout=compact&hide_border=true&bg_color=35,fff6b8,ffe8c7,ffd6ea&title_color=ffffff&text_color=ff8fbc&custom_title=Most%20Used%20Languages
+          path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
