@@ -1,5 +1,4 @@
-<h1 align="left" id="dotoroto-title">heyyyy! im dorothy :3</h1>
-<h3 align="left">cs + math @ uoft, incoming swe intern at Cerebras, interested in ml systems optimization</h3>
+<h1 align="left" id="dotoroto-title">heyyyy! im dorothy</h1>
 
 <p align="left">
   <a href="https://github.com/dotoroto/dotoroto"><img src="https://komarev.com/ghpvc/?username=dotoroto&color=ffb8d1&labelColor=ffb8d1" alt="page views" /></a>
@@ -10,12 +9,13 @@
 
 <a href="#dotoroto-title"><img src="./profile/stats.svg" alt="Dorothy Zheng's GitHub stats" align="right" /></a>
 
-- :mortar_board: &nbsp;**cs + math** @ **[uoft]**
-- :star2: &nbsp;**uoft national scholarship finalist**
-- :microscope: &nbsp;research intern @ **[embarc lab]**
-- :office: &nbsp;inc. **swe intern** @ **[cerebras]**
-- :brain: &nbsp;interested in **ml systems optimization**
-- :computer: &nbsp;check out my **[my website]** or **[linkedin]**
+- :mortar_board: &nbsp;cs + math @ [uoft]
+- :star2: &nbsp;uoft national scholarship finalist
+- :microscope: &nbsp;research intern @ [embarc lab]
+- :office: &nbsp;inc. swe intern @ [cerebras]
+- :brain: &nbsp;interested in ml systems optimization
+- :computer: &nbsp;check out my [my website] or [linkedin]
+- 📝 &nbsp;or maybe my [resume]
 
 <br>
 
@@ -25,7 +25,7 @@
   <img src="./profile/top-langs.svg" alt="my languages" />
 </p>
 
-<h2 align="left">currently listening to!!</h2>
+<h2 align="left">currently playing</h2>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -35,8 +35,9 @@
 
 <!-- links -->
 
-[cerebras]: https://www.cerebras.ai/ "Cerebras"
-[embarc lab]: https://www.embarclab.com/ "Embarc Lab"
-[linkedin]: https://www.linkedin.com/in/dorothy-zheng07/ "Dorothy Zheng on LinkedIn"
+[cerebras]: https://www.cerebras.ai/ "cerebras"
+[embarc lab]: https://www.embarclab.com/ "embarc lab"
+[linkedin]: https://www.linkedin.com/in/dorothy-zheng07/ "linkedin"
 [my website]: https://dorothyzheng.ca/ "dorothyzheng.ca"
-[uoft]: https://www.utoronto.ca/ "University of Toronto"
+[uoft]: https://www.utoronto.ca/ "university of toronto"
+[resume]: https://www.dorothyzheng.ca/DorothyZResume.pdf "resume"
