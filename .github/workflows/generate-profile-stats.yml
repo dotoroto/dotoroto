@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=ffb8d1&icon_color=ffb8d1&ring_color=ffb8d1&rank_icon=github&custom_title=dotoroto%27s%20github%20stats
+          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=ffb8d1&icon_color=ffffff&ring_color=ffffff&rank_icon=github&custom_title=dotoroto%27s%20github%20stats
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffb8d1&icon_color=ffb8d1&ring_color=ffb8d1&rank_icon=github&custom_title=dotoroto%27s%20github%20stats
+          options: username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffb8d1&icon_color=ffffff&ring_color=ffffff&rank_icon=github&custom_title=dotoroto%27s%20github%20stats
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

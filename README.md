@@ -1,9 +1,9 @@
 <h1 align="left" id="dotoroto-title">heyyyy! im dorothy</h1>
 
 <p align="left">
-  <a href="https://github.com/dotoroto/dotoroto"><img src="https://komarev.com/ghpvc/?username=dotoroto&color=ffb8d1&labelColor=ffb8d1" alt="page views" /></a>
-  <a href="https://dorothyzheng.ca"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdorothyzheng.ca&label=website&color=ffb8d1&labelColor=ffb8d1"></a>
-  <a href="https://www.linkedin.com/in/dorothy-zheng07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-ffb8d1?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/dotoroto/dotoroto"><img src="https://komarev.com/ghpvc/?username=dotoroto&color=ffb8d1&labelColor=555555" alt="page views" /></a>
+  <a href="https://dorothyzheng.ca"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdorothyzheng.ca&label=website&color=ffb8d1&labelColor=555555"></a>
+  <a href="https://www.linkedin.com/in/dorothy-zheng07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-ffb8d1?labelColor=555555&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/dotoroto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/dotoroto?style=flat&logo=github&color=ffb8d1&labelColor=555555"></a>
 </p>
 
