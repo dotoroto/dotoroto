@@ -39,7 +39,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=dotoroto&layout=compact&hide_border=true&bg_color=35,fff6b8,ffe8c7,ffd6ea&title_color=111111&text_color=ff8fbc&custom_title=most%20used%20languages
+          options: username=dotoroto&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=ff8fbc&custom_title=most%20used%20languages
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -47,7 +47,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=dotoroto&layout=compact&hide_border=true&bg_color=35,fff6b8,ffe8c7,ffd6ea&title_color=ffffff&text_color=ff8fbc&custom_title=most%20used%20languages
+          options: username=dotoroto&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ff8fbc&custom_title=most%20used%20languages
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
