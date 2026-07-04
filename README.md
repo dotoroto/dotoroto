@@ -1,5 +1,5 @@
-<h1 align="left" id="dotoroto-title">Hello there! I'm Dorothy Zheng</h1>
-<h3 align="left">CS + Math @ UofT, incoming SWE intern at Cerebras, interested in ML systems optimization</h3>
+<h1 align="left" id="dotoroto-title">heyyyy! im dorothy :3</h1>
+<h3 align="left">cs + math @ uoft, incoming swe intern at Cerebras, interested in ml systems optimization</h3>
 
 <p align="left">
   <a href="https://github.com/dotoroto/dotoroto"><img src="https://komarev.com/ghpvc/?username=dotoroto" alt="page views" /></a>
@@ -10,33 +10,33 @@
 
 <a href="#dotoroto-title"><img src="./profile/stats.svg" alt="Dorothy Zheng's GitHub stats" align="right" /></a>
 
-- :mortar_board: &nbsp;**CS + Math** @ **[UofT]**
-- :star2: &nbsp;**UofT National Scholarship Finalist**
-- :microscope: &nbsp;Research Intern @ **[Embarc Lab]**
-- :office: &nbsp;Incoming **SWE Intern** @ **[Cerebras]**
-- :brain: &nbsp;Interested in **ML systems optimization**
-- :computer: &nbsp;You can find more about me on **[my website]** or **[LinkedIn]**
+- :mortar_board: &nbsp;**cs + math** @ **[uoft]**
+- :star2: &nbsp;**uoft national scholarship finalist**
+- :microscope: &nbsp;research intern @ **[embarc lab]**
+- :office: &nbsp;inc. **swe intern** @ **[cerebras]**
+- :brain: &nbsp;interested in **ml systems optimization**
+- :computer: &nbsp;check out my **[my website]** or **[linkedin]**
 
 <br>
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">my github stats</h2>
 
 <p align="left">
-  <img src="./profile/top-langs.svg" alt="Top languages" />
+  <img src="./profile/top-langs.svg" alt="my languages" />
 </p>
 
-<h2 align="left">Spotify</h2>
+<h2 align="left">currently listening to!!</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ro6qllun58jgx7ndphtd5yxta&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ro6qllun58jgx7ndphtd5yxta&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=fe9ac5&bar_color_cover=true">
   </a>
 </p>
 
 <!-- links -->
 
-[Cerebras]: https://www.cerebras.ai/ "Cerebras"
-[Embarc Lab]: https://www.embarclab.com/ "Embarc Lab"
-[LinkedIn]: https://www.linkedin.com/in/dorothy-zheng07/ "Dorothy Zheng on LinkedIn"
+[cerebras]: https://www.cerebras.ai/ "Cerebras"
+[embarc lab]: https://www.embarclab.com/ "Embarc Lab"
+[linkedin]: https://www.linkedin.com/in/dorothy-zheng07/ "Dorothy Zheng on LinkedIn"
 [my website]: https://dorothyzheng.ca/ "dorothyzheng.ca"
-[UofT]: https://www.utoronto.ca/ "University of Toronto"
+[uoft]: https://www.utoronto.ca/ "University of Toronto"
