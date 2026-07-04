@@ -19,16 +19,13 @@
 
 <br>
 
-<h2 align="left">Spotify</h2>
+<h2 align="left">Currently Playing!</h2>
 
-> Add your Spotify account to show what you're listening to with the Spotify Embed theme.
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true"
-    alt="Spotify Now Playing"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ro6qllun58jgx7ndphtd5yxta&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffb8d1&bar_color_cover=true">
+  </a>
+</p>
 
 <!-- Replace YOUR_SPOTIFY_UID with your Spotify user ID after connecting the app:
 https://spotify-github-profile.kittinanx.com/api/login
