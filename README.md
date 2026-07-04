@@ -8,7 +8,7 @@
   <a href="https://github.com/dotoroto?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/dotoroto?style=flat&logo=github"></a>
 </p>
 
-<a href="#dotoroto-title"><img src="https://github-readme-stats.vercel.app/api?username=dotoroto&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2937&text_color=4b5563&icon_color=0f766e&rank_icon=github" alt="dotoroto" align="right" /></a>
+<a href="#dotoroto-title"><img src="./profile/stats.svg" alt="Dorothy Zheng's GitHub stats" align="right" /></a>
 
 - :mortar_board: &nbsp;**CS + Math** @ **[UofT]**
 - :star2: &nbsp;**UofT National Scholarship Finalist**
@@ -19,17 +19,19 @@
 
 <br>
 
-<h2 align="left">Currently Playing!</h2>
+<h2 align="left">GitHub Stats</h2>
+
+<p align="left">
+  <img src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+<h2 align="left">Spotify</h2>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ro6qllun58jgx7ndphtd5yxta&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffb8d1&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ro6qllun58jgx7ndphtd5yxta&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true">
   </a>
 </p>
-
-<!-- Replace YOUR_SPOTIFY_UID with your Spotify user ID after connecting the app:
-https://spotify-github-profile.kittinanx.com/api/login
--->
 
 <!-- links -->
 
