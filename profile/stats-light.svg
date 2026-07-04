@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">dotoroto's github stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 228, Total PRs: 9, Total Issues: 0, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 229, Total PRs: 9, Total Issues: 0, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #ffb8d1;
+      fill: #ffffff;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #ffb8d1;
+      stroke: #ffffff;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #ffb8d1;
+      stroke: #ffffff;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 216.70410825156256;
+        stroke-dashoffset: 216.64247248740097;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >228</text>
+      >229</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
