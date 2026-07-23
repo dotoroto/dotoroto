@@ -7,14 +7,6 @@
   <a href="https://github.com/dotoroto?tab=followers"><img alt="github followers" src="https://img.shields.io/github/followers/dotoroto?style=flat&logo=github&color=555555&labelColor=ffb8d1&logoColor=555555&label=github"></a>
 </p>
 
-<a href="#dotoroto-title">
-  <picture>
-    <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
-    <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="./profile/stats-light.svg" alt="Dorothy Zheng's GitHub stats" align="right" />
-  </picture>
-</a>
-
 - :mortar_board: &nbsp;cs + math @ [uoft]
 - :star2: &nbsp;uoft national scholarship finalist
 - :microscope: &nbsp;research intern @ [embarc lab]
